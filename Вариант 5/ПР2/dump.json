@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Elon",
+        "age": 39,
+        "balance": 123123,
+        "count_of_transactions": 423,
+        "id": 0
+    },
+    {
+        "name": "Bob",
+        "age": 18,
+        "balance": 1000,
+        "count_of_transactions": 4,
+        "id": 1
+    }
+]

@@ -1,0 +1,59 @@
+{
+    "config1": {
+        "flats": [
+            {
+                "shapes": [0, 1],
+                "size": [20, 20]
+            }
+        ],
+        "shapes": [
+            {
+                "flat_ind": 0,
+                "type": "circle",
+                "color": "#1560aa",
+                "rad": 5,
+                "center": [6, 7]
+            }, {
+                "flat_ind": 0,
+                "type": "rectangle",
+                "color": "#30c955",
+                "vertices": [[1, 2], [1, 10], [10, 10], [10, 2]]
+            }
+        ]
+    },
+    "every_shape": {
+        "flats": [
+            {
+                "shapes": [0, 1, 2, 3],
+                "size": [50, 50]
+            }
+        ],
+        "shapes": [
+            {
+                "flat_ind": 0,
+                "type": "circle",
+                "color": "#ff0000",
+                "rad": 3,
+                "center": [4, 6]
+            },
+            {
+                "flat_ind": 0,
+                "type": "square",
+                "color": "#0000ff",
+                "vertices": [[5, 5], [10, 5], [10, 10], [5, 10]]
+            },
+            {
+                "flat_ind": 0,
+                "type": "rectangle",
+                "color": "#00ffff",
+                "vertices": [[15, 15], [30, 15], [30, 20], [15, 20]]
+            },
+            {
+                "flat_ind": 0,
+                "type": "triangle",
+                "color": "#ff00ff",
+                "vertices": [[3, 40], [30, 25], [10, 45]]
+            }
+        ]
+    }
+}

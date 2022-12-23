@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: bubble-sort
+Version: 1.0
+Summary: Программа для сортировки чисел методом прямого обмена (пузырьковая сортировка)
+License: MIT License
+Requires: pytest
+Description-Content-Type: text/markdown
+
+Программа для сортировки чисел методом прямого обмена (пузырьковая сортировка)
+
+Реализована: Смышляева С. А. КИ22-17/1Б

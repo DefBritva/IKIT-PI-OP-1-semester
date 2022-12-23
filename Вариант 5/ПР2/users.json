@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Bob",
+        "age": 18,
+        "balance": 1000,
+        "count_of_transactions": 7,
+        "id": 0
+    },
+    {
+        "name": "qwe",
+        "age": 42,
+        "balance": 100000,
+        "count_of_transactions": 23,
+        "id": 1
+    },
+    {
+        "name": "Sarah",
+        "age": 48,
+        "balance": 50000,
+        "count_of_transactions": 8,
+        "id": 2
+    },
+    {
+        "name": "qwe",
+        "age": 1,
+        "balance": 0,
+        "count_of_transactions": 0,
+        "id": 3
+    },
+    {
+        "name": "Joja",
+        "age": 14,
+        "balance": 5,
+        "count_of_transactions": 2,
+        "id": 4
+    }
+]

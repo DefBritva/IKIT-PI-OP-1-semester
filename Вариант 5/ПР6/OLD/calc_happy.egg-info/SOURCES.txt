@@ -1,0 +1,16 @@
+README.md
+setup.cfg
+setup.py
+calc_happy/__init__.py
+calc_happy/__main__.py
+calc_happy/calc_happy_numbers.py
+calc_happy/validate_input.py
+calc_happy.egg-info/PKG-INFO
+calc_happy.egg-info/SOURCES.txt
+calc_happy.egg-info/dependency_links.txt
+calc_happy.egg-info/top_level.txt
+calc_happy/bin/calc_happy_script.py
+calc_happy/test/test_happy_numbers.py
+calc_happy/bin/calc_happy_script.py
+calc_happy/test/__init__.py
+calc_happy/test/test_happy_numbers.py
